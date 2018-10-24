@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PaletteApplicationV2</string>
+
+    <string-array name="grid_array">
+        <item>select</item>
+        <item>GRAY</item>
+        <item>blue</item>
+        <item>yellow</item>
+        <item>magenta</item>
+        <item>cyan</item>
+        <item>red</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

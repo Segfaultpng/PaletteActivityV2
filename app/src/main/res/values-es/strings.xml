@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="grid_array">
+        <item>seleccionar</item>
+        <item>GRIS</item>
+        <item>azul</item>
+        <item>amarillo</item>
+        <item>magenta</item>
+        <item>cian</item>
+        <item>rojo</item>
+    </string-array>
+</resources>
